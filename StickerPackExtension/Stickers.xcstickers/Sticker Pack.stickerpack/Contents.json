@@ -1,0 +1,59 @@
+{
+  "stickers" : [
+    {
+      "filename" : "win_1.sticker"
+    },
+    {
+      "filename" : "win_2.sticker"
+    },
+    {
+      "filename" : "win_3.sticker"
+    },
+    {
+      "filename" : "win_4.sticker"
+    },
+    {
+      "filename" : "win_5.sticker"
+    },
+    {
+      "filename" : "win_6.sticker"
+    },
+    {
+      "filename" : "win_7.sticker"
+    },
+    {
+      "filename" : "win_8.sticker"
+    },
+    {
+      "filename" : "win_9.sticker"
+    },
+    {
+      "filename" : "win_10.sticker"
+    },
+    {
+      "filename" : "win_11.sticker"
+    },
+    {
+      "filename" : "win_12.sticker"
+    },
+    {
+      "filename" : "win_13.sticker"
+    },
+    {
+      "filename" : "win_14.sticker"
+    },
+    {
+      "filename" : "win_15.sticker"
+    },
+    {
+      "filename" : "win_16.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}

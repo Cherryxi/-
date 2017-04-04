@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		DA060C271DF6657D00425B61 /* res5thumb.png in Resources */ = {isa = PBXBuildFile; fileRef = DA060C261DF6657D00425B61 /* res5thumb.png */; };
 		DA060C2B1DF66DD200425B61 /* GameKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DA060C2A1DF66DD200425B61 /* GameKit.framework */; };
-		DA1B23FF1E93D53200B6CF7B /* MCATestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DA1B23FE1E93D53200B6CF7B /* MCATestViewController.m */; };
 		DA37D6CE1DEFFC6300F63ABF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DA37D6CD1DEFFC6300F63ABF /* main.m */; };
 		DA37D6D11DEFFC6300F63ABF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DA37D6D01DEFFC6300F63ABF /* AppDelegate.m */; };
 		DA37D6D41DEFFC6300F63ABF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DA37D6D31DEFFC6300F63ABF /* ViewController.m */; };
@@ -99,8 +98,6 @@
 		4A815FA7C9D8C421E4BE878C /* libPods-画香.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-画香.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA060C261DF6657D00425B61 /* res5thumb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = res5thumb.png; sourceTree = "<group>"; };
 		DA060C2A1DF66DD200425B61 /* GameKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameKit.framework; path = System/Library/Frameworks/GameKit.framework; sourceTree = SDKROOT; };
-		DA1B23FD1E93D53200B6CF7B /* MCATestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MCATestViewController.h; sourceTree = "<group>"; };
-		DA1B23FE1E93D53200B6CF7B /* MCATestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MCATestViewController.m; sourceTree = "<group>"; };
 		DA37D6C91DEFFC6300F63ABF /* 画香.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "画香.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA37D6CD1DEFFC6300F63ABF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		DA37D6CF1DEFFC6300F63ABF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -236,8 +233,6 @@
 				DA81A3551E10FFED00217CA0 /* MCHomeViewController.h */,
 				DA56FDFD1E56D53600883F88 /* MCTestViewController.h */,
 				DA56FDFE1E56D53600883F88 /* MCTestViewController.m */,
-				DA1B23FD1E93D53200B6CF7B /* MCATestViewController.h */,
-				DA1B23FE1E93D53200B6CF7B /* MCATestViewController.m */,
 				DA81A3641E11045300217CA0 /* ViewController */,
 				DA37D6D51DEFFC6300F63ABF /* Main.storyboard */,
 				DAA189341E5C3FD7003D7AAA /* Storyboard.storyboard */,
@@ -609,7 +604,6 @@
 			files = (
 				DA81A3631E11044400217CA0 /* MCMeViewController.m in Sources */,
 				DA62EA831E542AAA00A3DA5E /* GCDAsyncUdpSocket.m in Sources */,
-				DA1B23FF1E93D53200B6CF7B /* MCATestViewController.m in Sources */,
 				DA37D6D41DEFFC6300F63ABF /* ViewController.m in Sources */,
 				DA81A3571E10FFED00217CA0 /* MCHomeViewController.m in Sources */,
 				DA81A35A1E11041800217CA0 /* MCChatViewController.m in Sources */,
